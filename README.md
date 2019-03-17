@@ -1,4 +1,5 @@
-React native application made for learning
+# React-native
+React-native application made during my course. Renders a tinder like swipe deck with smooth animations.
 
-- Animation components with interpolations
-- React native elements
+- Focus on animations
+- Uses react-native-elements
